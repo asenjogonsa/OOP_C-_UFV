@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-CulinaryCalculator",
+      "appliesTo": "ActivityI/CulinaryCalculator.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-pepe",
+      "appliesTo": "ActivityIII/pepe.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
