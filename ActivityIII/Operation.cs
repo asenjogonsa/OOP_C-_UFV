@@ -115,8 +115,6 @@ namespace code
 		
 
 		{
-			
-
 		public string GetSymbol()
 		{
 			return this.symbol;
